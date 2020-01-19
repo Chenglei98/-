@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 *************线性表顺序存储结构**************
 
 *************获取顺序表第i个数据*************
@@ -90,5 +89,4 @@ Status ListInsert(SqList *L, int i, ElemType e)
 	L->length++;
 	
 	return OK;
->>>>>>> c07a4f9454fe3fc30b3798a08d798c750ddbc5cc
 }
